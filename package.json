@@ -1,0 +1,17 @@
+{
+  "name": "altai_cookies",
+  "title": "Altai Cookies",
+  "version": "0.0.2",
+  "description": "Add 'WeLoveCookies' for better content deliverability.",
+  "main": "dist/altai_cookies.js",
+  "dependencies": {
+    "jquery": "^3.0",
+    "js-cookie": "^2.0"
+  },
+  "repository": {
+    "url": "https://github.com/iigethr/altai_cookies",
+    "type": "git"
+  },
+  "author": "Team IIGETHR <wearesocial@iigethr.com>",
+  "license": "MIT"
+}
